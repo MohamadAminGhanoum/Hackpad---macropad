@@ -2,6 +2,8 @@
 I want to build a hackpad or macropad that i can use when watching yt videos or social media. This will help me for when watching and when editing content.
 I have spent around 4.5 hours to do this, it took some time to get used to fusion 360 because it is my first time using it.
 
+Note: there are two distinct files for the .step file, one for the top and one for the bottom
+
 
 websites used to make the layout of buttons:
 https://kbplate.ai03.com/
