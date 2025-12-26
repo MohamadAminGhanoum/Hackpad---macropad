@@ -12,6 +12,8 @@ BOM - Components used:
 - 1 xiao rp2040-DIP
 - 1 oled panel
 - 4 sk6812MINI LEDs
+- 1x pcb: price: 1.5 dollar
+<img width="1187" height="583" alt="Screenshot 2025-12-26 at 20 46 22" src="https://github.com/user-attachments/assets/94126eba-4653-442c-939a-fc9370b0839e" />
 
 
 <img width="773" height="497" alt="Screenshot 2025-12-26 at 20 08 07" src="https://github.com/user-attachments/assets/63b8238f-25e7-4a95-a319-dc6a96e1ef10" />
