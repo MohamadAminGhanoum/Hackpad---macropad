@@ -25,7 +25,8 @@ I rendered the files in fusion 360, and the result is as follows, though it wasn
 
 <img width="773" height="497" alt="Screenshot 2025-12-26 at 20 08 07" src="https://github.com/user-attachments/assets/63b8238f-25e7-4a95-a319-dc6a96e1ef10" />
 
-<img width="765" height="446" alt="Screenshot 2025-12-26 at 20 09 23" src="https://github.com/user-attachments/assets/1fe48772-726a-4d1a-ab65-74d4d8884093" />
+<img width="607" height="344" alt="3d view" src="https://github.com/user-attachments/assets/413a0d99-08ab-45a1-822f-dd9eb3a119e4" />
+
 
 <img width="678" height="461" alt="Screenshot 2025-12-26 at 20 11 28" src="https://github.com/user-attachments/assets/140cc7ed-e9e0-4190-b79e-595e8f0751ab" />
 
