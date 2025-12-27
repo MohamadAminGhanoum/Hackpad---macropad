@@ -19,8 +19,9 @@ BOM - Components used:
 <img width="1187" height="583" alt="Screenshot 2025-12-26 at 20 46 22" src="https://github.com/user-attachments/assets/94126eba-4653-442c-939a-fc9370b0839e" />
 
 I rendered the files in fusion 360, and the result is as follows, though it wasnt possible to add the xiao rp2040 because of the many components i think
-<img width="354" height="428" alt="render" src="https://github.com/user-attachments/assets/9eab2f17-f94c-49a0-a0e6-aff39285a8b9" />
-<img width="605" height="291" alt="render2" src="https://github.com/user-attachments/assets/210e85f5-89e8-43ab-b6ab-39f02f388f95" />
+<img <img width="615" height="270" alt="Screenshot 2025-12-27 at 13 24 51" src="https://github.com/user-attachments/assets/e56a68aa-5189-4946-a40c-e082aec5ba7a" />
+width="605" height="291" alt="render2" src="https://github.com/user-attachments/assets/210e85f5-89e8-43ab-b6ab-39f02f388f95" />
+
 
 
 <img width="773" height="497" alt="Screenshot 2025-12-26 at 20 08 07" src="https://github.com/user-attachments/assets/63b8238f-25e7-4a95-a319-dc6a96e1ef10" />
