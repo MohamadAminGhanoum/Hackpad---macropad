@@ -16,6 +16,7 @@ BOM - Components used:
 - 1 oled panel
 - 4 sk6812MINI LEDs
 - 1x pcb: price: 1.5 dollar
+- 1x soldering iron: price: 2USD
 <img width="1187" height="583" alt="Screenshot 2025-12-26 at 20 46 22" src="https://github.com/user-attachments/assets/94126eba-4653-442c-939a-fc9370b0839e" />
 
 Soldering iron: ![530764808-bd24dfb2-b828-45e4-95e6-6d9f21412466](https://github.com/user-attachments/assets/32162c15-e2f2-4934-b4cb-a8835d08306d)
