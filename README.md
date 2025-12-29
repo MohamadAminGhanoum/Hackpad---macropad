@@ -17,6 +17,8 @@ BOM - Components used:
 - 4 sk6812MINI LEDs
 - 1x pcb: price: 1.5 dollar
 <img width="1187" height="583" alt="Screenshot 2025-12-26 at 20 46 22" src="https://github.com/user-attachments/assets/94126eba-4653-442c-939a-fc9370b0839e" />
+![530764808-bd24dfb2-b828-45e4-95e6-6d9f21412466](https://github.com/user-attachments/assets/f4cf0f29-72e7-4b6d-af0e-f55f4e3f14c1)
+
 
 I rendered the files in fusion 360, and the result is as follows, though it wasnt possible to add the xiao rp2040 because of the many components i think
 <img <img width="615" height="270" alt="Screenshot 2025-12-27 at 13 24 51" src="https://github.com/user-attachments/assets/e56a68aa-5189-4946-a40c-e082aec5ba7a" />
