@@ -24,12 +24,9 @@ Final look of the macropad:
 ![1000012437](https://github.com/user-attachments/assets/42bf0c83-6a91-4691-a79c-277565d50e88)
 
 
-Soldering iron: ![530764808-bd24dfb2-b828-45e4-95e6-6d9f21412466](https://github.com/user-attachments/assets/32162c15-e2f2-4934-b4cb-a8835d08306d)
 
-
-I rendered the files in fusion 360, and the result is as follows, though it wasnt possible to add the xiao rp2040 because of the many components i think
-<img <img width="615" height="270" alt="Screenshot 2025-12-27 at 13 24 51" src="https://github.com/user-attachments/assets/e56a68aa-5189-4946-a40c-e082aec5ba7a" />
-width="605" height="291" alt="render2" src="https://github.com/user-attachments/assets/210e85f5-89e8-43ab-b6ab-39f02f388f95" />
+I rendered the files in fusion 360, and the result is as follows, 
+<img width="615" height="270" alt="Screenshot 2025-12-27 at 13 24 51" src="https://github.com/user-attachments/assets/e56a68aa-5189-4946-a40c-e082aec5ba7a" />
 
 <img width="540" height="369" alt="Screenshot 2025-12-29 at 21 36 46" src="https://github.com/user-attachments/assets/27e0ac0e-528a-4610-b1c2-c4849858a062" />
 
